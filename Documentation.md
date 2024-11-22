@@ -1,4 +1,4 @@
 # Technical Documentation
 
 ## Overview
-This document provides technical details about the project.
+This document provides technical details about the project .
